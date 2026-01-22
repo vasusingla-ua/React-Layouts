@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import LayoutNavbar from './components/LayoutNavbar/LayoutNavbar'
 import DataTable from './layouts/DataTable/DataTable'
-import Homepage from './pages/homepage'
+import Homepage from './pages/Homepage'
 // import Homepage from './pages/Homepage'
 
 function App() {
