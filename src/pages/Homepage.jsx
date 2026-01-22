@@ -9,7 +9,7 @@ const Homepage = () => {
     <div className='min-h-screen flex flex-col'>
         <LayoutNavbar onChange={setLayout}/>
       {/* {layout=="home" && <LayoutNavbar/>} */}
-       <div className="flex-grow h-0 ">
+       <div className=" h-0 ">
       {layout=="DataTable" && <DataTable/>}
       {layout=="KanbanBoard" && <KanbanBoard/>}
 </div>
