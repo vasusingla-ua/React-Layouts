@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from '../../components/KanbanBoard/header'
+import Header from '../../components/KanbanBoard/Header'
 import Cont from '../../components/KanbanBoard/Cont'
 
 const KanbanBoard = () => {
